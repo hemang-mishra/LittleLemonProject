@@ -1,0 +1,67 @@
+Super user credentials:
+username: superuser
+password: superuser
+email: superuser@littlelemon.in
+
+### Customers
+username: user1
+email: user1@littlelemon.com
+password: Pass2025@iiitdmj
+
+username: user2
+email: user2@littlelemon.com
+password: Pass2025@iiitdmj
+
+username: user3
+email: user3@littlelemon.com
+password: Pass2025@iiitdmj
+
+username: user4
+email: user4@littlelemon.com
+password: Pass2025@iiitdmj
+
+username: user5
+email: user5@littlelemon.com
+password: Pass2025@iiitdmj
+
+### Managers
+username: manager1
+email: manager1@littlelemon.com
+password: Pass2025@iiitdmj
+
+username: manager2
+email: manager2@littlelemon.com
+password: Pass2025@iiitdmj
+
+username: manager3
+email: manager3@littlelemon.com
+password: Pass2025@iiitdmj
+
+username: manager4
+email: manager4@littlelemon.com
+password: Pass2025@iiitdmj
+
+username: manager5
+email: manager5@littlelemon.com
+password: Pass2025@iiitdmj
+
+###Delivery Crew
+username: crew1
+email: crew1@littlelemon.com
+password: Pass2025@iiitdmj
+
+username: crew2
+email: crew2@littlelemon.com
+password: Pass2025@iiitdmj
+
+username: crew3
+email: crew3@littlelemon.com
+password: Pass2025@iiitdmj
+
+username: crew4
+email: crew4@littlelemon.com
+password: Pass2025@iiitdmj
+
+username: crew5
+email: crew5@littlelemon.com
+password: Pass2025@iiitdmj
